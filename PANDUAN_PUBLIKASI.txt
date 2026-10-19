@@ -1,0 +1,18 @@
+CARA PALING MUDAH (NETLIFY)
+1. Buka https://app.netlify.com/drop lalu login.
+2. Ekstrak ZIP ini. Seret FOLDER E_Portofolio_PPL_Siap_Upload_GitHub_Netlify ke area Netlify Drop.
+3. Salin alamat situs yang berakhiran netlify.app.
+4. Untuk revisi, unggah ulang folder ini melalui halaman Deploys proyek yang sama.
+
+ALTERNATIF GITHUB PAGES
+1. Buat repository PUBLIC baru, misalnya e-portofolio-ppl.
+2. Ekstrak ZIP, unggah SELURUH ISI folder ini KE AKAR repository; index.html harus di akar, bukan di subfolder.
+3. GitHub repository > Settings > Pages > Source: Deploy from branch > Branch: main > Folder: /(root) > Save.
+4. Setelah build selesai, buka https://USERNAME.github.io/e-portofolio-ppl/ (ganti USERNAME dengan nama akun GitHub).
+
+PENTING
+- Semua isi repository GitHub publik dan halaman web dapat dilihat siapa pun, sehingga sembunyikan informasi pribadi murid.
+- File Drive yang ditampilkan harus memiliki izin Viewer untuk audiens yang dituju; jangan buka data sensitif murid.
+- Tidak semua video YouTube bisa ditampilkan tertanam jika pengaturan pemilik membatasi embedding.
+- Foto/dokumen yang diubah di Canva tidak langsung berubah di situs GitHub/Netlify. Perubahan harus diekspor dan diganti di paket sumber, lalu dipublikasikan ulang.
+- Ini draf website dan masih perlu melengkapi dokumentasi serta meninjau analisis berdasarkan bukti.
